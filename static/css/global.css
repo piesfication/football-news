@@ -40,6 +40,7 @@
     font-size: 0.875rem;
 }
 
+
 .form-style input[type="checkbox"]:focus {
     outline: none;
     border-color: #16a34a;
